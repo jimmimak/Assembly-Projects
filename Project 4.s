@@ -1,6 +1,3 @@
-# Athanasios Gkamplias, 3212019029
-# Dimitrios Makris, 3212019119
-
 # Enarjh Programmatos
 .data                                                                                 # Oi dhlwseis twn metablhtwn tou programmatos
 array: .word 0:20                                                                     # orismos pinaka sth mnhmh (desmeyei enan pinaka 20 akeraiwn)
