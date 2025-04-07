@@ -1,6 +1,3 @@
-# Athanasios Gkamplias, 3212019029
-# Dimitrios Makris, 3212019119
-
 # Enarjh programmatos
 .data												# Oi dhlwseis twn metablhtwn tou programmatos
 str1:	.asciiz "Enter how many numbers will the Fibonacci sequence print: "			# string gia thn ektupwsh mhnumatos pou zhtaei apo ton xrhsth na eisagei to plhthos twn orwn ths akolouthias Fibonacci pou epithimei na ektupwthoun
