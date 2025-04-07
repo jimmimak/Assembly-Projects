@@ -1,6 +1,3 @@
-#Athanasios Gkamplias, 3212019029
-#Dimitrios Makris, 3212019119
-	
 #Enarjh programmatos
 	.data						#Oi dhlwseis twn metablhtwn tou programmatos
 str1:	.asciiz "Enter an integer: "			#Mhnyma pou zhtaei apo ton xrhsth ton prwto akeraio (input message)
