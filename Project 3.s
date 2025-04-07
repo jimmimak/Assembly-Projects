@@ -1,6 +1,3 @@
-# Athanasios Gkamplias, 3212019029
-# Dimitrios Makris, 3212019119
-
 # Enarjh Programmatos
 .data                                                                                           # Oi dhlwseis twn metablhtwn tou programmatos
 msg:           .asciiz "Calculation of the Greatest Common Divisor of two integers using Euclid's algorithm\n"       # string gia thn ektyposh mhnymatos  
